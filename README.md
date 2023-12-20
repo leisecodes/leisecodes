@@ -1,6 +1,7 @@
 ![Black and White Minimalist Modern Simple About Your Self Facebook Cover](https://github.com/leisecodes/leisecodes/assets/118006690/84491ffa-3a4f-4469-8070-14c81b590ab9)
 
 ### Hello Hello! 👋
+![Black and White Minimalist Modern Simple About Your Self Facebook Cover (1000 x 563 px) (1)](https://github.com/leisecodes/leisecodes/assets/118006690/87d663b9-cd14-48ca-accb-a0560a8233a4)
 
 
 
