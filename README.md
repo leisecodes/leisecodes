@@ -1,4 +1,5 @@
-![2](https://github.com/leisecodes/leisecodes/assets/118006690/53fb7559-fbb2-4408-b3b2-1fb8d5c6b405)
+![Black and White Minimalist Modern Simple About Your Self Facebook Cover](https://github.com/leisecodes/leisecodes/assets/118006690/1fdac4ac-555d-49d8-8b1f-8bda67488ff6)
+
 
 ### Hello Hello! 👋
 
