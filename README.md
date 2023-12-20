@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Black and White Minimalist Modern Simple About Your Self Facebook Cover](https://github.com/leisecodes/leisecodes/assets/118006690/84491ffa-3a4f-4469-8070-14c81b590ab9)
+
+
 <!--
 **leisecodes/leisecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
