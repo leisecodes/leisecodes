@@ -1,19 +1,21 @@
-![Black and White Minimalist Modern Simple About Your Self Facebook Cover](https://github.com/leisecodes/leisecodes/assets/118006690/1fdac4ac-555d-49d8-8b1f-8bda67488ff6)
-
-
 ### Hello Hello! I'm Leise! 👋
 
-⛵ I am pursuing a Masters of Computer Science at Northeastern's Roux Institute. My specialty is software design and development (and I love front end with all my heart!). 
+⛵ I recently completed my Masters of Science in Computer Science at Northeastern's Roux Institute.
 
-🌱 Current Adventure: Learning Angular for a consulting project with The Jackson Laboratory! 
+🌱 Current Adventure: Building my personal portfolio and applying for development roles.
 
-🖍️ Languages I've Used: 
+🖍️ I have experience working with: 
 <ul>
   <li>Python</li>
    <li>Java</li>
    <li>C</li>
-  <li>Javascript</li>
-  <li>HTML/CSS</li>
+   <li>HTML/CSS</li>
+   <li>Javascript</li>
+   <li>React</li>
+   <li>Angular</li>
+   <li>NodeJS</li>
+   <li>MongoDB</li>
+   <li>MySQL</li>
 </ul>
   
 
